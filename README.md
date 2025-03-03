@@ -39,13 +39,3 @@ This project implements an **ETL pipeline** using **AWS Lambda, S3, Snowflake, a
 ✔ **Scalable and cost-efficient** cloud-based architecture  
 ✔ **Data visualization** in Power BI for business insights  
 
----
-
-## **🔹 Future Enhancements**  
-✅ Implement **real-time streaming with Kafka**  
-✅ Add **Airflow DAGs** for workflow orchestration  
-✅ Improve data quality with **automated validation checks**  
-
----
-
-Would you like me to generate a **README.md** file with this content? 🚀
